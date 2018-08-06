@@ -1,0 +1,20 @@
+{
+  "name": "pd-youtube",
+  "version": "0.1.0",
+  "description": "YouTube Player for Pagedraw",
+  "main": "index.js",
+  "repository": "https://github.com/Pagedraw/pd-youtube.git",
+  "author": "Pagedraw Team",
+  "license": "MIT",
+  "scripts": {
+    "develop": "pagedraw develop index.js"
+  },
+  "devDependencies": {
+    "pagedraw-cli": "^0.4.9"
+  },
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-youtube": "^7.6.0"
+  }
+}
